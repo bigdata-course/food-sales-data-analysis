@@ -4,8 +4,9 @@
 --Python  
 --Spark  
 ## 目录说明  
---data2目录存放原始数据  
---result目录存放预测结果  
+--data2目录存放原始数据（数据较大，已压缩，请先解压）  
+--result目录存放预测结果（数据较大，已压缩，请先解压）  
+
 ## 代码运行说明
 sudo pip install numpy  
 sudo sudo apt-get install python-matplotlib ipython ipython-notebook  
